@@ -1,5 +1,5 @@
 # my-first-project
-Hello world repo. This is my first edit on Github, modified from branch 01.
+Hello world repo. This is now my 3rd edit on Github.
 
 # Details
 I want this to be easier than I expect.
