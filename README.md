@@ -3,6 +3,7 @@ Hello world repo. This is my first edit on Github, modified from branch 01.
 
 # Details
 I want this to be easier than I expect.
+In order to do so, I'm now adding a change from branch02.
 
 *this is italicized*
 ***bold and italic***
